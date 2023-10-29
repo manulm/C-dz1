@@ -1,0 +1,14 @@
+H:\geek\Dz2\obj\Debug\net7.0\Dz2.GeneratedMSBuildEditorConfig.editorconfig
+H:\geek\Dz2\obj\Debug\net7.0\Dz2.AssemblyInfoInputs.cache
+H:\geek\Dz2\obj\Debug\net7.0\Dz2.AssemblyInfo.cs
+H:\geek\Dz2\obj\Debug\net7.0\Dz2.csproj.CoreCompileInputs.cache
+H:\geek\Dz2\bin\Debug\net7.0\Dz2.exe
+H:\geek\Dz2\bin\Debug\net7.0\Dz2.deps.json
+H:\geek\Dz2\bin\Debug\net7.0\Dz2.runtimeconfig.json
+H:\geek\Dz2\bin\Debug\net7.0\Dz2.dll
+H:\geek\Dz2\bin\Debug\net7.0\Dz2.pdb
+H:\geek\Dz2\obj\Debug\net7.0\Dz2.dll
+H:\geek\Dz2\obj\Debug\net7.0\refint\Dz2.dll
+H:\geek\Dz2\obj\Debug\net7.0\Dz2.pdb
+H:\geek\Dz2\obj\Debug\net7.0\Dz2.genruntimeconfig.cache
+H:\geek\Dz2\obj\Debug\net7.0\ref\Dz2.dll
